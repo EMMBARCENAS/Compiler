@@ -1,0 +1,10 @@
+CLASS PGM1 {
+	CONST A = 10, B = 3;
+	VAR X, Y, Z;
+
+	WHILE A > B DO {
+	X = A + 16;
+	Y = A * B;
+}
+}
+
